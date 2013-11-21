@@ -1,0 +1,3 @@
+A python script which fetches OpenRA Master Server Database and generates an "index.html" page with mostly played maps.
+
+Note: it will ignore maps which it can't find at OpenRA Content Website

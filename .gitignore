@@ -1,0 +1,5 @@
+openra.db
+index.html
+*.pyc
+/__pycache__/
+/__pycache__/*
